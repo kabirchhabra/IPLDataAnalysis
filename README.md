@@ -7,3 +7,6 @@ some ques like:
 3. In which season the maxmimum number of matches were played?
 4. What decision was taken after winning the toss?
 5. Was that toss decision proved to be beneficial or not?
+
+Download this file and upload it in Jupyter Notebook or Google Colab
+and run http://127.0.0.1:8040/ on the browser to view the dashboard
